@@ -22,7 +22,7 @@
 	def Ambitions():
 		BeATrader()
 		FinanciallyFree()
-		FinishMyNovel()
+		
 	
  ```
 <!--
