@@ -11,16 +11,18 @@
 		hobbies = [
 				'Badminton',
 				'Playing games'
-			]
+			  ]
+		interests = [
+				'
+	
 	
 	def getCity():
 		return Surabaya_Indonesia()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
+		BeATrader()
+		FinanciallyFree()
 		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
 	
  ```
 <!--
