@@ -1,4 +1,4 @@
-### Hi there, I am Junior 👋
+### Hi there, I am Junior 👋 PS. This README is still a WIP
 [![Linkedin Badge](https://img.shields.io/badge/-Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-tantono)](https://www.linkedin.com/in/junior-tantono) [![Gmail Badge](https://img.shields.io/badge/-juniortantono.jrtcmx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniortantono.jrtcmx@gmail.com)](mailto:juniortantono.jrtcmx@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrt-cmx" alt="jrt-cmx" /> </p>
@@ -8,16 +8,22 @@
  class WhoAmI:
  	user = 'Junior'
 		current_work = 'Working on my personal portfolio'
+		education = {
+				"University of Wollongong":"Bachelor of Computer Science (Big Data)",
+				"University of Birmingham":"BSc (Honours) in Business Management",
+			    }
 		hobbies = [
 				'Badminton',
 				'Playing games'
 			  ]
 		interests = [
-				'
-	
-	
+				'Stocks',
+				'Crypto',
+				'Business analytics'
+			    ]
+			    
 	def getCity():
-		return Surabaya_Indonesia()
+		return 'Singapore'
 	
 	def Ambitions():
 		BeATrader()
