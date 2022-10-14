@@ -1,4 +1,4 @@
-### Hi there, I am Junior 👋 PS. This README is still a WIP
+### Hi there, I am Junior 👋 
 [![Linkedin Badge](https://img.shields.io/badge/-Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-tantono)](https://www.linkedin.com/in/junior-tantono) [![Gmail Badge](https://img.shields.io/badge/-juniortantono.jrtcmx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniortantono.jrtcmx@gmail.com)](mailto:juniortantono.jrtcmx@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrt-cmx" alt="jrt-cmx" /> </p>
